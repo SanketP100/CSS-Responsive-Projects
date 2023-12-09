@@ -53,7 +53,6 @@ body {
 #nav {
     height: 10vh;
     width: 100%;
-    /* background-color: red; */
     margin-top: 30px;
     display: flex;
     align-items: center;
@@ -63,7 +62,6 @@ body {
 }
 
 #nav h1 {
-    /* background-color: blueviolet; */
     height: 10vh;
     width: 25vw;
     font-family: "monument";
@@ -95,7 +93,6 @@ body {
 }
 
 #nav h4 {
-    /* background-color: rgb(40, 10, 68); */
     height: 10vh;
     width: 20vw;
     display: flex;
@@ -114,7 +111,6 @@ body {
 
 #nav h4:nth-last-child(2) {
     width: 15vw;
-    /* background-color: red; */
 
 }
 
@@ -125,7 +121,6 @@ body {
 #hero {
     min-height: calc(100vh - 10vh - 30px);
     width: 100%;
-    /* background-color: red; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -135,7 +130,6 @@ body {
 #hero #content {
     height: 75vh;
     width: 90%;
-    /* background-color: aqua; */
     position: relative;
 }
 
@@ -148,7 +142,6 @@ body {
 #vover {
     height: 45%;
     width: 100%;
-    /* background-color: red; */
     position: absolute;
     bottom: 0;
     padding: 0 4vw;
@@ -168,7 +161,6 @@ body {
 }
 
 #part1 h4 {
-    /* background-color: aqua; */
     font-size: 1.3vw;
     padding: 1.9vw 2vw;
     border-radius: 50%;
@@ -196,7 +188,6 @@ body {
 #scroll {
     height: 30vh;
     width: 100%;
-    /* background-color: red; */
     display: flex;
     align-items: center;
     overflow-x: hidden;
@@ -207,7 +198,6 @@ body {
     flex-shrink: 0;
     height: 210px;
     width: 1500px;
-    /* background-color: aqua; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -241,7 +231,6 @@ body {
 #alphabets {
     height: 10vh;
     width: 100%;
-    /* background-color: red; */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -256,7 +245,6 @@ body {
     font-weight: 900;
     font-style: italic;
     border-bottom: 2px solid #000;
-    /* background-color: aqua; */
     margin-right: 1.5vw;
 }
 
@@ -287,21 +275,18 @@ body {
 #page2 {
     height: 100%;
     width: 100%;
-    /* background-color: brown; */
 }
 
 #page2 {
     margin-top: 3vw;
     min-height: 100%;
     width: 100%;
-    /* background-color: cornflowerblue; */
     padding: 1vw 5vw;
 }
 
 #page2 #page2-part1 {
     height: 100%;
     width: 100%;
-    /* background-color: chocolate; */
     display: flex;
     justify-content: space-between;
 }
@@ -312,7 +297,6 @@ body {
     background-size: cover;
     height: 90%;
     width: 55%;
-    /* background-color: aqua; */
     position: relative;
 }
 
@@ -328,7 +312,6 @@ body {
 #page2-part1 #part1-elem2 {
     height: 70%;
     width: 40%;
-    /* background-color: rgb(40, 70, 70); */
 }
 
 #page2-part1 #part1-elem2 img {
@@ -341,7 +324,6 @@ body {
 
 #part1-elem2 #text {
     display: flex;
-    /* background-color: aqua; */
     align-items: top;
     justify-content: space-between;
     margin-top: .5vw;
@@ -364,7 +346,6 @@ body {
 #page3 {
     height: 100%;
     width: 100%;
-    /* background-color: darkseagreen; */
     display: flex;
     align-items: top;
     justify-content: space-between;
@@ -375,7 +356,6 @@ body {
 #page3 #page3-part1 {
     height: 100%;
     width: 40%;
-    /* background-color: chartreuse; */
     display: flex;
     align-items: start;
     justify-content: space-between;
@@ -409,7 +389,6 @@ body {
 #page4 {
     height: 100%;
     width: 100%;
-    /* background-color: rgb(100, 255, 100); */
     padding: 5vw 5vw;
     position: relative;
 }
@@ -440,7 +419,6 @@ body {
     height: 100%;
     width: 100%;
     padding: 2vw 5vw;
-    /* background-color: darkseagreen; */
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -450,7 +428,6 @@ body {
 #page5>h1 {
     font-family: 'monument';
     text-transform: uppercase;
-    /* font-weight: 900; */
     font-size: 3vw;
     text-align: center;
     margin-bottom: 4vw;
@@ -461,7 +438,6 @@ body {
 .elem {
     height: 16vh;
     width: 100%;
-    /* background-color: red; */
     border-top: 2px solid #000;
     display: flex;
     align-items: center;
@@ -529,7 +505,6 @@ body {
 
 
 .elem h4 {
-    /* background-color: chartreuse; */
     width: 40px;
     font-size: 1.1vw;
     font-weight: 900;
@@ -541,14 +516,12 @@ body {
     font-weight: 900;
     font-size: 2.6vw;
     width: 40vw;
-    /* background-color: rgb(0, 255, 34); */
 }
 
 
 #page6 {
     height: 100%;
     width: 100%;
-    /* background-color: rgb(212, 255, 255); */
     padding: 3vw 5vw;
     display: flex;
     align-items: center;
@@ -558,7 +531,6 @@ body {
 #page6-part1 {
     height: 100%;
     width: 48%;
-    /* background-color: brown; */
 }
 
 #page6-part1 img {
@@ -570,7 +542,6 @@ body {
 #page6-part2 {
     height: 100%;
     width: 48%;
-    /* background-color: rgb(255, 200, 82); */
     overflow: hidden;
 }
 
@@ -598,7 +569,6 @@ body {
 #page6-part2 #img-box {
     height: 70%;
     width: 100%;
-    /* background-color: brown; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -620,7 +590,6 @@ body {
 #page7 {
     height: 100%;
     width: 100%;
-    /* background-color: rgb(100, 255, 100); */
     padding: 5vw 5vw;
     position: relative;
 }
@@ -650,7 +619,6 @@ body {
 #page8 {
     height: 100%;
     width: 100%;
-    /* background-color: burlywood; */
     padding: 2vw 5vw;
     margin-bottom: 3vw;
     display: flex;
@@ -669,7 +637,6 @@ body {
 #page8-part2 {
     height: 100%;
     width: 40%;
-    /* background-color: rgb(200, 255, 0); */
 }
 
 #page8-part2 img {
@@ -680,12 +647,10 @@ body {
 }
 
 #page8-part2 #text-box {
-    /* height: 30%; */
     margin-top: 2vw;
     display: flex;
     align-items: start;
     justify-content: space-between;
-    /* background-color: brown;/ */
 }
 
 #text-box h3 {
@@ -697,7 +662,6 @@ body {
 }
 
 #text-box p {
-    /* background-color:aquamarine ; */
     width: 50%;
     font-size: 1.2vw;
     font-weight: 700;
@@ -705,7 +669,6 @@ body {
 
 #text-scroller {
     width: 100%;
-    /* background-color: chartreuse; */
     display: flex;
     align-items: center;
     padding: 1vw;
@@ -725,7 +688,6 @@ body {
     text-transform: uppercase;
     margin-right: 16px;
     color: transparent;
-    /* background-color: red; */
     animation-name: textmove;
     animation-duration: 5s;
     animation-iteration-count: infinite;
@@ -745,7 +707,6 @@ body {
 #page9 {
     height: fit-content;
     width: 100%;
-    /* background-color: mediumorchid; */
     padding: 3vw 5vw;
     margin-top: 2vw;
     display: flex;
@@ -764,7 +725,6 @@ body {
 #page9 #page9-part2 {
     height: 100%;
     width: 45vw;
-    /* background-color: chartreuse; */
 }
 
 #page9-part2 h3 {
@@ -776,7 +736,6 @@ body {
     height: 40px;
     width: 45px;
     margin: auto;
-    /* background-color: brown; */
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -789,7 +748,6 @@ body {
     width: 100%;
     height: 25vw;
     margin-top: 5.5vw;
-    /* background-color: blueviolet; */
 }
 
 #page9-part2 #img img {
@@ -802,7 +760,6 @@ body {
 #page9 #page9-part3 {
     height: 100%;
     width: 45vw;
-    /* background-color: rgb(255, 153, 0); */
 }
 
 #page9-part3 h3 {
@@ -814,7 +771,6 @@ body {
     height: 40px;
     width: 45px;
     margin: auto;
-    /* background-color: brown; */
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -827,7 +783,6 @@ body {
     width: 100%;
     height: 50%;
     margin-top: 3.5vw;
-    /* background-color: rgb(55, 43, 226); */
 }
 
 #page9-part3 #img2 img {
@@ -840,7 +795,6 @@ body {
 footer {
     height: fit-content;
     width: 100%;
-    /* background-color:chartreuse ; */
     display: flex;
     justify-content: space-between;
     margin-top: 15vw;
@@ -850,7 +804,6 @@ footer {
 
 #f-part1 {
     width: 40%;
-    /* background-color: coral; */
     display: flex;
     padding: 3vw 0;
     padding-right: 5vw;
@@ -871,7 +824,6 @@ footer {
 }
 
 #f-part1 h4 {
-    /* font-family: 'monument'; */
     font-size: 1.4vw;
     font-weight: 900;
 
@@ -901,7 +853,6 @@ footer {
 
 #f-part2 {
     width: 20%;
-    /* background-color: rgb(80, 98, 255); */
     display: flex;
     justify-content: center;
     border: 2px solid #000;
@@ -917,13 +868,9 @@ footer {
 #f-part3 {
     height: 100%;
     width: 40%;
-    /* background-color: rgb(131, 37, 4); */
-    /* padding: 3vw 0; */
-
 }
 
 #f-part3 h4 {
-    /* background-color: bisque; */
     padding-left: 4vw;
     padding: 3vw;
     font-weight: 900;
@@ -934,14 +881,11 @@ footer {
 
 #f-part3 #f-icon-address {
     height: 25vh;
-    /* margin-top: 3vw; */
-    /* background-color: rgb(52, 104, 52); */
     padding: 2.5vw 4vw;
     border-right: 2px solid #000;
 }
 
 #f-part3 #icons {
-    /* background-color: aquamarine; */
     text-align: start;
     display: flex;
     gap: 1.5vw;
@@ -949,7 +893,6 @@ footer {
 }
 
 #f-part3 #address {
-    /* background-color: rgb(0, 148, 99); */
     text-align: start;
     margin-top: 2vw;
     font-size: 1.1vw;
@@ -987,8 +930,6 @@ footer {
     }
 
     #nav h1 {
-        /* height: 15vh; */
-        /* font-weight: 800; */
         font-size: 6vw;
         width: 100%;
         letter-spacing: 1px;
@@ -998,22 +939,14 @@ footer {
 
     #nav h1::after {
         content: "©";
-        /* font-family: gilroy; */
-        /* font-weight: 300; */
         font-size: 4vw;
-        /* position: absolute; */
         top: 17%;
         right: 57%;
     }
 
     #nav h1::before {
-        /* display: none; */
-        /* content: "model management"; */
-        /* font-family: gilroy; */
-        /* font-weight: 300; */
         font-size: 2vw;
         letter-spacing: .2px;
-        /* position: absolute; */
         bottom: 25%;
         right: 60%;
     }
@@ -1031,14 +964,11 @@ footer {
     #hero {
         min-height: 0vh;
         margin-top: 7vw;
-        /* background-color: chartreuse; */
     }
 
     #hero #content {
-        /* background-color: brown; */
         height: 35vh;
         width: 95%;
-        /* padding: 0 3vw; */
         overflow: hidden;
     }
 
@@ -1208,64 +1138,34 @@ footer {
 
     #page5 {
         height: 50%;
-        /* width: 100%; */
         padding: 0vw 3vw;
         margin-top: 3vw;
-
-        /* background-color: darkseagreen; */
-        /* position: relative; */
-        /* display: flex; */
-        /* justify-content: center; */
-        /* flex-direction: column; */
     }
 
     #page5>h1 {
-        /* font-family: 'monument'; */
-        /* text-transform: uppercase; */
-        /* font-weight: 900; */
         font-size: 5vw;
         font-weight: 500;
-        /* text-align: center; */
         margin-bottom: 5vw;
     }
 
-
-
     .elem {
         height: 11vh;
-        /* width: 100%; */
-        /* background-color: red; */
         border-top: 1px solid #000;
-        /* display: flex; */
-        /* align-items: center; */
-        /* justify-content: space-between; */
         padding: 2vw;
-        /* position: relative; */
     }
 
     .elem img {
         height: 70px;
         width: 70px;
-        /* object-fit: cover; */
-        /* object-position: 50% 10%; */
-        /* position: absolute; */
-        /* border-radius: 50%; */
-        /* left: 10%; */
-        /* opacity: 0; */
-        /* transition: all ease .4s; */
     }
 
     .elem:hover img {
-        /* opacity: 1; */
         left: 23%;
     }
 
     .elem #elem-centar-text {
         left: 10%;
         font-size: 2.5vw;
-        /* opacity: 0; */
-        /* transition: all ease .4s; */
-        /* position: absolute; */
     }
 
     .elem #elem-centar-text h2 {
@@ -1273,11 +1173,9 @@ footer {
     }
 
     .elem #elem-centar-text h6 {
-        /* text-transform: uppercase; */
     }
 
     .elem:hover #elem-centar-text {
-        /* opacity: 1; */
         left: 22%;
     }
 
@@ -1303,25 +1201,19 @@ footer {
 
 
     .elem h4 {
-        /* background-color: chartreuse; */
-        /* width: 40px; */
         font-size: 2.8vw;
         font-weight: 600;
         letter-spacing: .7px;
-        /* text-transform: uppercase; */
         margin-bottom: 5vw;
     }
 
     .elem-part2 h1 {
-        /* font-weight: 900; */
         font-size: 4.6vw;
         width: 23vh;
         padding-bottom: .1vw;
-        /* background-color: red; */
     }
 
     .elem-part2 h5 {
-        /* background-color: aquamarine; */
         font-size: 2.6vw;
     }
 
@@ -1329,7 +1221,6 @@ footer {
     #page6 {
         height: 100%;
         width: 100%;
-        /* background-color: rgb(212, 255, 255); */
         padding: 3vw 3vw;
         margin-top: 4vw;
         display: flex;
@@ -1353,7 +1244,6 @@ footer {
     #page6-part2 {
         height: 100%;
         width: 100%;
-        /* background-color: rgb(82, 255, 110); */
     }
 
     #page6-part2 h1 {
@@ -1361,9 +1251,7 @@ footer {
         font-size: 5.5vw;
         letter-spacing: 1px;
         font-weight: 900;
-        /* text-transform: uppercase; */
         padding-bottom: 2vw;
-        /* background-color: aqua; */
         margin-top: 4vw;
     }
 
@@ -1384,7 +1272,6 @@ footer {
     #page6-part2 #img-box {
         height: calc(100% - 40%);
         width: 100%;
-        /* background-color: brown; */
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -1440,8 +1327,6 @@ footer {
         width: 100%;
         font-size: 2.8vw;
         line-height: 3.7vw;
-        /* font-weight: 300; */
-        background-color: aquamarine;
     }
 
     #text-box p {
@@ -1450,45 +1335,24 @@ footer {
 
 
     #text-scroller {
-        /* width: 100%; */
-        /* background-color: chartreuse; */
         margin-top: 7vw;
-        /* display: flex; */
-        /* align-items: center; */
         padding: 5vw;
-        /* overflow-x: hidden; */
-        /* overflow-y: hidden; */
         border-top: 1px solid #000;
         border-bottom: 1px solid #000;
     }
 
     #text-scroller h1 {
-        /* flex-shrink: 0; */
-        /* font-family: 'monument'; */
         font-size: 7.5vw;
-        /* font-weight: 900; */
         letter-spacing: 1px;
         -webkit-text-stroke: 1px #000000;
-        /* text-transform: uppercase; */
-        /* margin-right: 16px; */
-        /* color: transparent; */
-        /* background-color: red; */
-        /* animation-name: textmove; */
-        /* animation-duration: 5s; */
-        /* animation-iteration-count: infinite; */
-        /* animation-timing-function: linear; */
     }
 
 
     #page9 {
         height: fit-content;
-        /* width: 100%; */
-        /* background-color: mediumorchid; */
         padding: 4vw 3vw;
         margin-top: 4vw;
-        /* display: flex; */
         align-items: center;
-        /* justify-content: space-between; */
         flex-direction: column;
         gap: 1vw;
     }
@@ -1503,7 +1367,6 @@ footer {
     #page9 #page9-part2 {
         height: 100%;
         width: 100%;
-        /* background-color: chartreuse; */
         margin-top: 3vw;
     }
 
@@ -1511,20 +1374,12 @@ footer {
         font-weight: 600;
         line-height: 4.5vw;
         line-height: 6vw;
-        /* font-weight: 600; */
-        /* background-color: aquamarine; */
     }
 
     #page9-part2 #A {
         height: 30px;
         width: 35px;
         margin: 0;
-        /* background-color: brown; */
-        /* border-radius: 50%; */
-        /* display: flex; */
-        /* align-items: center; */
-        /* justify-content: center; */
-        /* border: 1px solid #000; */
         margin-bottom: 4vw;
     }
 
@@ -1532,7 +1387,6 @@ footer {
         width: 100%;
         height: 60%;
         margin-top: 2vw;
-        /* background-color: blueviolet; */
     }
 
         
@@ -1546,7 +1400,6 @@ footer {
     #page9 #page9-part3 {
         height: 100%;
         width: 100%;
-        /* background-color: rgb(255, 153, 0); */
         margin-top: 3vw;
     }
 
@@ -1560,12 +1413,6 @@ footer {
         height: 30px;
         width: 35px;
         margin: 0;
-        /* background-color: brown; */
-        /* border-radius: 50%; */
-        /* display: flex; */
-        /* align-items: center; */
-        /* justify-content: center; */
-        /* border: 1px solid #000; */
         margin-bottom: 4vw;
     }
 
@@ -1573,7 +1420,6 @@ footer {
         width: 100%;
         height: 60%;
         margin-top: 2vw;
-        /* background-color: rgb(55, 43, 226); */
     }
 
     #page9-part3 #img2 img {
@@ -1586,27 +1432,15 @@ footer {
 
     footer {
         height: fit-content;
-        /* width: 100%; */
-        /* background-color:chartreuse ; */
-        /* display: flex; */
         flex-direction: column;
-        /* justify-content: space-between; */
-        /* margin-top: 10vw; */
-        /* overflow: hidden; */
         border-bottom: 1px solid #000;
     }
 
     #f-part1 {
         height: 100%;
         width: 100%;
-        /* background-color: coral; */
         display: flex;
-        /* padding: 3vw 0; */
-        /* padding-right: 5vw; */
         padding: 5vw 3vw;
-        /* align-items: start; */
-        /* justify-content: space-between; */
-        /* position: relative; */
         border: 1px solid #000;
     }
 
@@ -1619,30 +1453,18 @@ footer {
     }
 
     #f-part1 h4 {
-        /* font-family: 'monument'; */
         font-size: 3.5vw;
-        /* font-weight: 900; */
 
     }
 
     #f-part1 h1::after {
-        /* content: "©"; */
-        /* font-family: gilroy; */
-        /* font-weight: 300; */
         font-size: 3.2vw;
-        /* position: absolute; */
         top: -7%;
         right: -13%;
     }
 
     #f-part1 h1::before {
-        /* content: "model management"; */
-        /* font-family: gilroy; */
-        /* font-weight: 300; */
         font-size: 1.7vw;
-        /* position: absolute; */
-        /* bottom: -10%; */
-        /* right: 1%; */
     }
 
 
@@ -1650,8 +1472,6 @@ footer {
     #f-part2 {
         height: 100%;
         width: 100%;
-        /* background-color: rgb(80, 98, 255); */
-        /* display: flex; */
         justify-content: start;
         border: 1px solid #000;
         border-top: none;
@@ -1664,16 +1484,10 @@ footer {
     }
 
     #f-part3 {
-        /* height: 100%; */
         width: 100%;
-        /* background-color: rgb(131, 37, 4); */
-        /* padding: 3vw 0; */
-
     }
 
     #f-part3 h4 {
-        /* background-color: bisque; */
-        /* padding-left: 5vw; */
         padding: 7vw 3vw;
         font-weight: 900;
         font-size: 3.5vw;
@@ -1683,16 +1497,12 @@ footer {
 
     #f-part3 #f-icon-address {
         height: 25vh;
-        /* margin-top: 3vw; */
-        /* background-color: rgb(52, 104, 52); */
         padding: 10vw 3vw;
         border: 1px solid #000;
         border-top: none;
     }
 
     #f-part3 #icons {
-        /* text-align: start; */
-        /* display: flex; */
         justify-content: space-evenly;
         font-size: 5.5vw;
     }
@@ -1704,7 +1514,6 @@ footer {
 
     #address h5 {
         font-size: 3.5vw;
-        /* background-color: chartreuse; */
         padding-bottom: 1vw;
     }
 
