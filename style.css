@@ -7,18 +7,18 @@
 
 @font-face {
     font-family: 'Gilroy Light';
-    src: url(./Gilroy-Light.woff2);
+    src: url(./font/Gilroy-Light.woff2);
 }
 
 @font-face {
     font-family: 'Gilroy ExtraBold';
-    src: url(./Gilroy-ExtraBold.woff2);
+    src: url(./font/Gilroy-ExtraBold.woff2);
 
 }
 
 @font-face {
     font-family: "monument";
-    src: url(./MonumentExtended-Ultrabold.woff2);
+    src: url(./font/MonumentExtended-Ultrabold.woff2);
 }
 
 
